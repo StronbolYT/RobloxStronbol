@@ -1,0 +1,2 @@
+$ heroku git:remote -a stronbolfunctions
+$ heroku buildpacks:set heroku/php
