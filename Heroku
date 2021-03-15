@@ -1,1 +1,3 @@
 $ heroku git:remote -a stronbolfunctions
+$ heroku create myapp --buildpack heroku/php
+$ heroku buildpacks:set heroku/php
